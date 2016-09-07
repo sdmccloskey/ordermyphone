@@ -1,7 +1,7 @@
 ###
 # Page options, layouts, aliases and proxies
 ###
-
+set :fonts_dir,  "fonts"
 # Per-page layout changes:
 #
 # With no layout
